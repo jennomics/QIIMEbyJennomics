@@ -1,0 +1,16 @@
+#SampleID	phinchid	location	node	type	subtype	Description
+SP1	lab_fwd_mic	lab_fwd	lab	mic	lab_mic	ISS
+SP2	lab_keyboard	lab_RWS	lab	RWS_keyboard	lab_key	ISS
+SP3	lab_aft_mic	lab_aft	lab	mic	lab_mic	ISS
+SP4	lab_RWS_THC	lab_RWS	lab	RWS_hand	lab_key	ISS
+SP5	lab_Lfoot	lab_RWS	lab	RWS_foot	lab_foot	ISS
+SP6	lab_Rfoot	lab_RWS	lab	RWS_foot	lab_foot	ISS
+SP7	lab_aft_vent	lab_aft	lab	vent	lab_vent	ISS
+SP8	ST_crew_vent	stbd_crew	crew	vent	crew_vent	ISS
+SP9	STBD_nomex	stbd_crew	crew	nomex	crew_sleep	ISS
+SP10	PT_crew_vent	port_crew	crew	vent	crew_vent	ISS
+SP11	PORT_nomex	port_crew	crew	nomex	crew_sleep	ISS
+SP12	node_2_mic	node_2	node2	mic	node2_mic	ISS
+SP13	lab_keyboard	lab	lab	keyboard	lab_key	ISS
+SP14	lab_handrail	lab	lab	handrail	lab_key	ISS
+SP15	lab_fwd_vent	lab_fwd	lab	vent	lab_vent	ISS
