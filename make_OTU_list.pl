@@ -1,6 +1,6 @@
 #this script is for the very specific purpose of creating lists of OTU IDs in association with the workflow implemented in the IPython notebook, QIIMEbyJennomics. To run it, you just type:
 
-perl make_OTU_list.pl 
+#perl make_OTU_list.pl 
 
 #!usr/bin/perl
 
